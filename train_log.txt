@@ -1,0 +1,6 @@
+[edge_r0] 100000 pas en 25 s
+[device_r0] 150000 pas en 42 s
+[edge_r1] 100000 pas en 31 s
+[device_r1] 150000 pas en 45 s
+[flat] 500000 pas en 123 s
+Entrainement termine.
